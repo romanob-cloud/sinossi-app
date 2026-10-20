@@ -1,0 +1,6 @@
+{
+  "name": "Showrunner Studio - Guida e Scrittura Serie TV",
+  "description": "Piattaforma guidata passo-passo dall'idea alla stesura della sinossi e del pitch per produzioni seriali cinetelevisive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
